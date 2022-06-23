@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 hi i am diva  tiwari it was demo only
+=======
+hi i am divya tiwari 
+>>>>>>> Stashed changes
